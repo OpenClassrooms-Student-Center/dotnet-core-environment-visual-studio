@@ -1,0 +1,140 @@
+# ---- OSX ----
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ---- Windows ----
+
+# Windows image file caches
+[Tt]humbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# MS Office temp files
+~$*
+
+# ---- Editors ----
+
+# Visual Studio
+[Rr]elease/
+[Dd]ebug/
+[Oo]bj/
+[Bb]in/
+[Gg]en/
+packages/
+_ReSharper*
+
+*.bak
+*.csproj.user
+*.vcproj.*.user
+*.suo
+.vs/
+*.swp
+*.obj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.ncb
+*.ilk
+*.log
+*.sbr
+*.vssscc
+*.pyc
+*.orig
+*.mat
+*.ReSharper
+*StyleCop.Cache
+*.sdf
+*.opensdf
+*.opencover.xml
+
+# compiled help
+*.chm
+
+# Visual studio profiling results
+*.vsp
+*.psess
+
+# Backup files for the Advanced Installer
+*.back.aip
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Sonarqube
+.scannerwork/
+
+# ---- Project ----
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+coverage/
+
+# Typescript v1 declaration files
+typings/
+
+# e2e
+/e2e/*.js
+/e2e/*.map
+
+# compiled output
+[Dd]ist/
+[Tt]mp/
+out-tsc/
+
+.sass-cache
+connect.lock

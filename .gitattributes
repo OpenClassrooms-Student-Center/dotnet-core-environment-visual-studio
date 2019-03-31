@@ -1,0 +1,24 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Declare files that will always have LF line endings on checkout.
+*.* text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.png binary
+*.t3x binary
+*.t3d binary
+*.exe binary
+*.data binary
+*.ttf binary
+*.eof binary
+*.eot binary
+*.swf binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.ogg binary
+*.flv binary
