@@ -1,21 +1,30 @@
-# dotnet-core-environment-visual-studio
+# Mettez en place votre environnement .NET avec Visual Studio (FR)
 
-Dépôt pour le cours "Mettez en place votre environnement .NET avec Visual Studio" (FR).  
-Contient un simple projet .NET Core, et son projet de tests.
+> Dépôt pour le cours ["Mettez en place votre environnement .NET avec Visual Studio" (FR)](https://openclassrooms.com/fr/courses/5641796-adoptez-visual-studio-comme-environnement-de-developpement).  
+> Contient un simple projet .NET Core, et son projet de tests.
 
-## Pré-requis
+## Table des matières
 
-**Windows**
+1. [Prérequis](#prérequis)
+   1. [Minimum](#minimum)
+   1. [Recommandé](#recommandé)
+1. [Détails](#détails)
 
-* Windows 7 ou supérieur (Windows 10 recommandé)
-* [Visual Studio 2017](https://docs.microsoft.com/fr-fr/visualstudio/install/install-visual-studio) minimum
-* [.NET Core SDK 2.1](https://dotnet.microsoft.com/download) minimum
+---
 
-**macOS**
+## Prérequis
 
-* macOS Sierra 10.12 ou supérieur
-* [Visual Studio 2017](https://docs.microsoft.com/fr-fr/visualstudio/mac/installation) minimum
-* [.NET Core SDK 2.1](https://dotnet.microsoft.com/download) minimum
+### Minimum
+
+- Windows 7 ou macOS 10.12 Sierra
+- [Visual Studio 2017](https://docs.microsoft.com/fr-fr/visualstudio/install/install-visual-studio?view=vs-2017)
+- [.NET Core SDK 2.1](https://dotnet.microsoft.com/download/dotnet-core/2.1)
+
+### Recommandé
+
+- Windows 10 ou macOS 10.15 Catalina
+- [Visual Studio 2019](https://docs.microsoft.com/fr-fr/visualstudio/install/install-visual-studio?view=vs-2019)
+- [.NET Core SDK 3.1](https://dotnet.microsoft.com/download)
 
 ## Détails
 
